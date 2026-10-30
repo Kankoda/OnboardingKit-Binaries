@@ -6,7 +6,7 @@
 
 # OnboardingKit Binaries
 
-This repository is used to host release artifacts and dSYMs for the [OnboardingKit SDK][Repository]. Each tag in this repo matches an SDK version in the [main repository][Repository].
+This repository is used to host release artifacts. Each tag in this repo matches an SDK version in the [main repository][Repository].
 
 
 ## Website
